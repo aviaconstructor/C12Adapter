@@ -1,0 +1,7 @@
+<map id="MChannelSocketCallback" name="MChannelSocketCallback">
+<area shape="rect" id="node2" href="$classMChannelSocket.html" title="MChannelSocket implements the channel interface for an TCP/IP socket. " alt="" coords="33,304,164,331"/>
+<area shape="rect" id="node3" href="$classMChannelSocketBase.html" title="MChannelSocket implements the channel interface for an IP socket, either TCP or UDP. " alt="" coords="17,229,180,256"/>
+<area shape="rect" id="node4" href="$classMChannel.html" title="Abstraction of all channel&#45;level communication media. " alt="" coords="55,155,142,181"/>
+<area shape="rect" id="node5" href="$classMCOMObject.html" title="Root communication object that defines default property handling and configuration location..." alt="" coords="46,80,151,107"/>
+<area shape="rect" id="node6" href="$classMObject.html" title="Root object that establishes dynamic class information, dynamic property and method handling and mars..." alt="" coords="61,5,136,32"/>
+</map>

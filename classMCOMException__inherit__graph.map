@@ -1,0 +1,10 @@
+<map id="MCOMException" name="MCOMException">
+<area shape="rect" id="node4" href="$classMEC12BadProcedureResult.html" title="Exception which is thrown for the erroneous ANSI C12 procedure response code. " alt="" coords="486,5,682,32"/>
+<area shape="rect" id="node5" href="$classMEC12NokResponse.html" title="Exception which is thrown in case the ANSI C12 meter responded with an error defined by the protocol..." alt="" coords="507,56,661,83"/>
+<area shape="rect" id="node6" href="$classMEChannelDisconnectedUnexpectedly.html" title="Exception which is thrown in case the channel is unexpectedly disconnected. " alt="" coords="448,107,720,133"/>
+<area shape="rect" id="node7" href="$classMEChannelReadTimeout.html" title="Exception which is thrown in case the timeout condition happens during reading from the channel..." alt="" coords="494,157,674,184"/>
+<area shape="rect" id="node8" href="$classMEChannelWriteTimeout.html" title="Exception which is thrown in case the timeout condition happens during writing to the channel..." alt="" coords="493,208,675,235"/>
+<area shape="rect" id="node9" href="$classMECollisionDetected.html" title="Exception which is thrown in case the channel detects the collision, and it has to yield to the peer..." alt="" coords="506,259,662,285"/>
+<area shape="rect" id="node2" href="$classMException.html" title="Common exception base for MeteringSDK. " alt="" coords="128,132,225,159"/>
+<area shape="rect" id="node3" href="$classMObject.html" title="Root object that establishes dynamic class information, dynamic property and method handling and mars..." alt="" coords="5,132,80,159"/>
+</map>

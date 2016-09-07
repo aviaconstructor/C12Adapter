@@ -1,0 +1,5 @@
+<map id="MEC12BadProcedureResult" name="MEC12BadProcedureResult">
+<area shape="rect" id="node2" href="$classMCOMException.html" title="Root of every exception thrown by the MCOM component. " alt="" coords="40,155,167,181"/>
+<area shape="rect" id="node3" href="$classMException.html" title="Common exception base for MeteringSDK. " alt="" coords="55,80,152,107"/>
+<area shape="rect" id="node4" href="$classMObject.html" title="Root object that establishes dynamic class information, dynamic property and method handling and mars..." alt="" coords="66,5,141,32"/>
+</map>

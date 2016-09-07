@@ -1,0 +1,6 @@
+<map id="MStreamSocketBase" name="MStreamSocketBase">
+<area shape="rect" id="node4" href="$classMStreamSocket.html" title="TCP/IP socket, reliable stream. " alt="" coords="5,229,129,256"/>
+<area shape="rect" id="node5" href="$classMStreamSocketUdp.html" title="UDP datagram socket. " alt="" coords="153,229,304,256"/>
+<area shape="rect" id="node2" href="$classMStream.html" title="MStream is the base class of all streams. " alt="" coords="107,80,187,107"/>
+<area shape="rect" id="node3" href="$classMObject.html" title="Root object that establishes dynamic class information, dynamic property and method handling and mars..." alt="" coords="110,5,185,32"/>
+</map>

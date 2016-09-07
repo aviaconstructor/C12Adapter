@@ -1,0 +1,4 @@
+<map id="MLogFile" name="MLogFile">
+<area shape="rect" id="node2" href="$classMLogFileReader.html" title="Log file utility class to handle the log from the monitor. " alt="" coords="5,80,128,107"/>
+<area shape="rect" id="node3" href="$classMLogFileWriter.html" title="Log file writer, one that writes information to a file. " alt="" coords="152,80,269,107"/>
+</map>

@@ -1,0 +1,25 @@
+var classMChannelSocketBase =
+[
+    [ "MChannelSocketBase", "classMChannelSocketBase.html#a7944f34401a24de1b93f6193907a8075", null ],
+    [ "~MChannelSocketBase", "classMChannelSocketBase.html#a685013239bf2bcab1320b6f6a7352105", null ],
+    [ "Connect", "classMChannelSocketBase.html#a14936d01c89dc508a4640f59fdb04236", null ],
+    [ "Disconnect", "classMChannelSocketBase.html#a9eef1d8f894fa038f4bd87fe6c9236fc", null ],
+    [ "FlushOutputBuffer", "classMChannelSocketBase.html#afd24e277f39e9204418ca6196564edd7", null ],
+    [ "GetActualLocalAddress", "classMChannelSocketBase.html#a9c32e21a4e0b32cb13956bd961c150d0", null ],
+    [ "GetActualLocalPort", "classMChannelSocketBase.html#ad63a70b44de64061127bec6c851e6d4c", null ],
+    [ "GetActualPeerAddress", "classMChannelSocketBase.html#add882a66172b93780890a6b4d37db776", null ],
+    [ "GetActualPeerPort", "classMChannelSocketBase.html#a68a93af85d3fb1552679f7794d146f33", null ],
+    [ "GetAutoAnswerAddress", "classMChannelSocketBase.html#af7ac045470a687febf94aec7585824e4", null ],
+    [ "GetAutoAnswerPort", "classMChannelSocketBase.html#a1fa39681c9e88f0ad3b1ffafc14c2f6b", null ],
+    [ "GetMediaIdentification", "classMChannelSocketBase.html#a25eb0731968603f5a69aa978910af8d8", null ],
+    [ "GetPeerAddress", "classMChannelSocketBase.html#a23ceb714530f1e68b4138c42c13e81e7", null ],
+    [ "GetPeerPort", "classMChannelSocketBase.html#a29ac5cdc1ee865d33202ee9776984730", null ],
+    [ "GetSocket", "classMChannelSocketBase.html#a576b96a1e50b3d0ac6c7bab6db14699d", null ],
+    [ "GetSocketConst", "classMChannelSocketBase.html#a3425d26125497540664a8b45e73dae22", null ],
+    [ "IsConnected", "classMChannelSocketBase.html#abe81346befb2722d44d95c2dc5240366", null ],
+    [ "SetAutoAnswerAddress", "classMChannelSocketBase.html#a1de1ba9bb14868d28837dae34a7ef122", null ],
+    [ "SetAutoAnswerPort", "classMChannelSocketBase.html#a092536eb99adea1b379c07bef1e8a092", null ],
+    [ "SetPeerAddress", "classMChannelSocketBase.html#ab9021d733fae05fcde0e382707f894e0", null ],
+    [ "SetPeerPort", "classMChannelSocketBase.html#ab64c31b1684d2a6ac0e60775d2511481", null ],
+    [ "SetSocket", "classMChannelSocketBase.html#a1bb833afc4c77e42041543e93a9fe4e3", null ]
+];
